@@ -18,8 +18,13 @@ The PDF will be populated with the following:
 * Number of GitHub stars
 * Number of users following
 
+# Gif
+![Node Project Cli](./node.gif)
+
 # Screen Shot of my PDF
 ![ScreenShot](https://github.com/Tonnette/node-project/blob/master/PDF.png)
+
+
 
 # github repo
 https://github.com/Tonnette/node
