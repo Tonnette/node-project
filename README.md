@@ -19,7 +19,7 @@ The PDF will be populated with the following:
 * Number of users following
 
 # Screen Shot of my PDF
-![ScreenShot](https://github.com/Tonnette/newPortfolio/blob/master/PDF.png)
+![ScreenShot](https://github.com/Tonnette/node-project/blob/master/PDF.png)
 
 # github repo
 https://github.com/Tonnette/node
